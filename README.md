@@ -1,7 +1,7 @@
 ### Built with GPT-5 Thinking (ChatGPT)
 
 <video controls width="720" poster="demo.png">
-  <source src="https://github.com/astomodynamics/PID-Control-Playground/blob/master/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
