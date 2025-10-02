@@ -1,9 +1,7 @@
 ### Built with GPT-5 Thinking (ChatGPT)
 
-<video controls playsinline style="max-width:100%;height:auto" poster="./demo.png">
-  <source src="./demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![poster check](./demo.png)
+
 
 
 # PID Control Playground — Usage Guide
