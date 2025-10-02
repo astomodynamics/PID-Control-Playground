@@ -1,5 +1,7 @@
 ### Built with GPT-5 Thinking (ChatGPT)
 
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/astomodynamics/PID-Control-Playground/blob/master/demo.mp4))
+
 # PID Control Playground — Usage Guide
 
 Interactive web app to build intuition for PID control on simple plants.
