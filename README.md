@@ -1,6 +1,9 @@
 ### Built with GPT-5 Thinking (ChatGPT)
 
-[![Watch the video](https://github.com/astomodynamics/PID-Control-Playground/blob/master/demo.mp4)(https://github.com/astomodynamics/PID-Control-Playground/blob/master/demo.mp4)
+<video controls width="720" poster="demo.png">
+  <source src="https://github.com/astomodynamics/PID-Control-Playground/blob/master/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # PID Control Playground — Usage Guide
 
